@@ -26,3 +26,37 @@ A great desire to connect your life with programming. This is how I can make mon
 
 
 ***
+
+
+### Skills
+
+
+* Python (Basic)
+* Pascal (Basic)
+* JavaScript (in progress)
+* HTML
+* CSS
+* Git/GitHub
+
+
+***
+
+
+### Code Example
+
+
+function sum (a,b) {
+        return a+b
+}
+
+
+***
+
+
+### Experience
+
+
+[CV. Markdown & Git](https://Katsiaryna26.github.io/rsschool-cv/cv)
+
+
+***
