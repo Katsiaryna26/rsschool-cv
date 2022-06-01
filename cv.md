@@ -60,3 +60,21 @@ function sum (a,b) {
 
 
 ***
+
+
+### Education
+
+
+* **University:** *Mogilev State University named after A.A. Kuleshova*
+* **RS Schools Course:** *Java Script/ Front-end. Stage 0 (in progress)* 
+
+
+***
+
+
+### Languages
+
+
+* **Belarusian, Russian** - native speaker
+* **English** - A2 in process
+
